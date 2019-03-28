@@ -541,7 +541,7 @@ float: left
 .mobile-menu .nav-toggle {
 display: block;
 float: left;
-line-height: 125px;
+line-height: 80px;
 height: 70px;
 width: 46px;
 color: #6372B2;
