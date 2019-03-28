@@ -127,13 +127,6 @@ width:98%;
     }
     .mobile-menu .nav-toggle {
         width: 22px;
-         padding: 5px 8px;
-    display: inline-block;
-    cursor: pointer;
-    vertical-align: middle;
-    text-decoration: none;
-    background: #f1f1f1;
-    border-radius: 4px;
     }
 #subscribe-css p.subscribe-note {
 font-size: 150%;
