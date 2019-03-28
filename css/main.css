@@ -285,10 +285,10 @@ transition: background .3s
 }
 #menu ul > li > a {
 position: relative;
-color: #f2f2f2;
-font-size: 14px;
-font-weight: 500;
-line-height: 70px;
+color: #484848;
+font-size: 15px;
+font-weight: 550;
+line-height: 120px;
 display: inline-block;
 text-transform: uppercase;
 text-decoration: none;
