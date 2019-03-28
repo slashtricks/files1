@@ -541,14 +541,14 @@ float: left
 .mobile-menu .nav-toggle {
 display: block;
 float: left;
-line-height: 70px;
+line-height: 125px;
 height: 70px;
 width: 46px;
-color: #fff;
-font-size: 15px;
+color: #6372B2;
+font-size: 35px;
 text-align: center;
 cursor: pointer;
-padding: 0
+padding: 10px;
 }
 .mobile-menu .nav-toggle:before {
 content: "\f0c9";
