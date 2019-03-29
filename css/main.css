@@ -286,11 +286,11 @@ transition: background .3s
 position: relative;
 color: #484848;
 font-size: 15px;
-font-weight: 550;
+font-weight: 600;
 line-height: 120px;
 display: inline-block;
 text-transform: uppercase;
-text-decoration: none;
+text-decoration: overline;
 margin: 0;
 padding: 0;
 transition: color .3s
