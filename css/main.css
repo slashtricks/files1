@@ -1,7 +1,7 @@
 #############################################################
 #############################################################
 Site Developed and maintained by www.slashtricks.com
-Designer and Developer: Wasim 
+Designer and Developer: Wasim Umatiya
 #############################################################
 #############################################################
 */
@@ -1324,7 +1324,7 @@ background-color: #db4a39
 background-color: #CA2127
 }
 .ty-share .ty-whatsapp {
-background-color:#25d266;display:none;
+background-color:#25d266;
 }
 @media only screen and (max-width: 768px) {
 .ty-share .ty-whatsapp{display:inline-block;}
