@@ -1,0 +1,203 @@
+/*------Layout (No Edit)----------*/
+body#layout #outer-wrapper,
+body#layout .row {
+width: 800px;
+padding: 0
+}
+body#layout .theme-opt {
+display: block!important
+}
+body#layout .section h4 {
+margin: 2px 0 8px;
+color: #333!important
+}
+body#layout .ibpanel {
+background-color: #2c3e50!important;
+overflow: hidden!important;
+border-color: #213243!important
+}
+body#layout .ibpanel h4 {
+font-size: 16px;
+padding: 0;
+color: #fff!important
+}
+body#layout .ibpanel .widget {
+float: left;
+width: 49.5%;
+margin-right: 1%
+}
+body#layout .ibpanel #HTML261 {
+margin-right: 0
+}
+body#layout .ibpanel .widget.locked-widget .widget-content {
+background-color: #34495e!important;
+border-color: #455668!important;
+color: #fff!important
+}
+body#layout .ibpanel .widget.locked-widget .widget-content a.editlink {
+color: #fff!important;
+border: 1px solid #233648;
+border-radius: 2px;
+padding: 0 5px;
+background-color: #233648
+}
+body#layout .FollowByEmail .widget-content:before {
+display: none
+}
+body#layout #header-wrapper,
+body#layout .header-content {
+height: auto;
+margin: 0
+}
+body#layout .header-logo {
+float: left;
+width: 30%;
+max-width: 30%;
+max-height: none;
+margin: 0;
+padding: 0
+}
+body#layout .header-logo .section {
+background: rgba(26, 188, 156, 0.1);
+border-color: #1abc9c
+}
+body#layout #main-nav {
+display: block;
+width: 70%;
+height: auto
+}
+body#layout #menu {
+display: block;
+float: none;
+height: auto;
+background: rgba(231, 76, 60, 0.1)!important;
+border-color: #e74c3c!important
+}
+body#layout #search-icon,
+body#layout #nav-search {
+display: none
+}
+body#layout #menu .widget {
+display: block
+}
+body#layout #feat-sec .widget {
+display: block
+}
+body#layout #content-wrapper {
+margin: 0 auto
+}
+body#layout #main-wrapper {
+float: left;
+width: 70%;
+margin: 0;
+padding: 0
+}
+body#layout .posts-title {
+display: none
+}
+body#layout #sidebar-wrapper {
+float: right;
+width: 30%;
+margin: 0;
+padding: 0
+}
+body#layout #sidebar-wrapper .section {
+background: rgba(41, 128, 185, 0.1);
+border-color: #2980b9
+}
+body#layout #sidebar-wrapper .section .add_widget {
+border-color: #2980b9
+}
+body#layout #sidebar-wrapper .section .draggable-widget .widget-wrap2 {
+background-color: #2980b9!important
+}
+body#layout #sidebar-wrapper .widget {
+overflow: inherit
+}
+body#layout #ads-home {
+background: rgba(241, 196, 16, 0.1);
+border-color: #f1c410
+}
+body#layout #ads-home .add_widget {
+border-color: #f1c410!important
+}
+body#layout #ads-home .draggable-widget .widget-wrap2 {
+background-color: #f1c410!important;
+cursor: move
+}
+body#layout .sect-left {
+width: 26%;
+float: left;
+margin: 0 2% 8px!important
+}
+body#layout #blocked-widgets {
+display: none!important
+}
+body#layout #feat-sec {
+background: rgba(46, 204, 113, 0.1)!important;
+border-color: #2ecc71!important
+}
+body#layout #feat-sec .draggable-widget .widget-wrap2 {
+background-color: #2ecc71!important
+}
+body#layout #feat-sec .add_widget {
+border-color: #2ecc71
+}
+body#layout #main-wrapper #main {
+margin-right: 4px;
+background: rgba(52, 73, 94, 0.1);
+border-color: #34495e
+}
+body#layout .layout-widget-description {
+display: none!important
+}
+body#layout #sidebar {
+margin-top: 10px
+}
+body#layout .widget-content .editlink {
+color: #fff!important;
+border: 1px solid #233648;
+border-radius: 2px;
+padding: 0 5px;
+background-color: #233648
+}
+body#layout #footer-wrapper {
+overflow: hidden;
+padding: 0 5px
+}
+body#layout #footer {
+float: left;
+width: 100%;
+border: 1px solid #1abc9c;
+background: rgba(26, 188, 156, 0.1);
+padding: 0
+}
+body#layout #footer .section {
+background: transparent;
+padding: 16px 0!important;
+margin: 0 1%!important;
+width: 31.33%!important;
+border: 0!important
+}
+body#layout #footer #footer-sec3 {
+margin-right: 0!important
+}
+body#layout #footer .section .draggable-widget .widget-wrap2 {
+background-color: #1abc9c!important
+}
+body#layout #footer .section .add_widget {
+border-color: #1abc9c
+}
+body#layout #footer-sec3 {
+margin-right: 0
+}
+body#layout .footer-wrapper .footer-copy {
+width: 100%
+}
+body#layout .footer-wrapper .footer-copy .section {
+margin-right: 0
+}
+body#layout .home-ad .widget-content {
+max-width: 475px
+}
+/*------Layout (end)----------*/
