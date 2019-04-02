@@ -203,13 +203,15 @@ pre {
   -moz-background-size: 100% 50px;
   background-size: 100% 50px;
   line-height: 25px;
-  color: #f1f1f1;
+  color: #000000;
+  font-size:12px;
   position: relative;
   padding: 0 7px;
   margin: 15px 0 10px;
   overflow: hidden;
   word-wrap: normal;
-  white-space: pre;
+  white-space: pre-wrap;
+  background:#f3f3f7;
   position: relative
 }
 
